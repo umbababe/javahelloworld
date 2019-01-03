@@ -1,4 +1,4 @@
-# java hello world application
+# java version7 hello world application
 FROM java:7
 COPY JavaHelloWorld.java JavaHelloWorld.java
 RUN javac JavaHelloWorld.java
